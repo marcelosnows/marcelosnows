@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Marcelo Neves 👋
 
-<!--
-**marcelosnows/marcelosnows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 
 
-Here are some ideas to get you started:
+In love with technology, I'm studying Front-end and Back-end Developer at [Rocketseat](https://www.rocketseat.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Stack
+
+- ⚡️ Main language: `JavaScript`
+- 🛠  Front-end: `React.js`, `JavaScript`, `HTML5`, `css3`,
+- ⚒  Back-end: `Node.js`
+- 🎨 layout Design: `Figma`
+- 🖋 Version code control: `Git & Github`
+- 🚧 Tools: `VsCode`, `Markdown`
+- 🌍 I'm mostly active within the `Rocketseat Community`
+
+### Contacts
+
+- 📩 E-mail: marcsneves@hotmail.com
+- 👤 Linkedin: 
