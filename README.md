@@ -2,7 +2,7 @@
 ### Hi there, I'm Marcelo Neves 👋
 
 ### About Me<br>
-In love with technology, I'm studying Front-end and Back-end Developer at [Rocketseat](https://www.rocketseat.com.br/).
+In love with technology, I'm studying Front-end and Back-end Developer at [Rocketseat](https://www.rocketseat.com.br/)/[DIO](https://web.dio.me/).
 
 ### Current Stack<br>
 ⚡️ Main Language: `JavaScript`<br>
