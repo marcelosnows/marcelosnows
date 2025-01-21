@@ -7,7 +7,7 @@ In love with technology, I'm studying Front-end and Back-end Developer at [Rocke
 ### Current Stack<br>
 ⚡️ Main Language: `JavaScript`<br>
 🛠  Front-end: `React.js`, `JavaScript`, `HTML5`, `CSS3`<br>
-⚒  Back-end: `Node.js`<br>
+⚒  Back-end: `Node.js`, `Java`<br>
 🎨 Layout Design: `Figma`<br>
 🗜  Version code control: `Git & Github`<br>
 🚧 Tools: `VsCode`, `Markdown`<br>
@@ -15,6 +15,6 @@ In love with technology, I'm studying Front-end and Back-end Developer at [Rocke
 
 ### Contacts<br>
 📩 marcsneves@hotmail.com <br>
-🔗 [Linkedin](https://www.linkedin.com/in/marcelo-neves-a8235a53/)
+🔗 [Linkedin](https://www.linkedin.com/in/marcelloneves/)
 
 
